@@ -1,4 +1,5 @@
 import cv2
+import math
 import numpy as np
 
 # Carrega as quatro imagens
